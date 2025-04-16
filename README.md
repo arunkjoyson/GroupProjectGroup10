@@ -189,3 +189,8 @@ Metrics for Success
 Outcome
 Organizers gain actionable data on the effectiveness of their offline promotional campaigns, enabling them to make data-driven improvements in future event planning.
 
+Reference:
+Eventbrite. (2023). How to organize an event. https://www.eventbrite.com/blog/academy/ 
+Google Sheets Templates. (n.d.). Event planning templates. https://docs.google.com/templates 
+Lucas, M. J. (2014). The organizing practices of a community festival. Journal of Organizational Ethnography, 3(2), 275–290. https://doi.org/10.1108/JOE-01-2013-0001
+VolunteerMatch. (n.d.). Blog & best practices for volunteer coordination. https://www.volunteermatch.org/
