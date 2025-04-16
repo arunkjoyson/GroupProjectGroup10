@@ -8,7 +8,7 @@
 Event Planning: Create a tool for organizing and promoting community events.
 
 ## Problem 1: No Volunteer or Staff Coordination Features
-Most event tools focus on attendee registration and promotion, but they lack features for managing internal teams — such as assigning volunteers, tracking staff availability, and handling last-minute changes, which leads to confusion, missed tasks, and poor coordination. (Eventbrite, 2023)
+Most event tools focus on attendee registration and promotion, but they lack features for managing internal teams which leads to confusion, missed tasks, and poor coordination.  (Eventbrite, 2023)
 
 ### Requirement 1: The system should allow organizers to manage volunteer/staff roles clearly.
 
@@ -128,7 +128,7 @@ Organizers can confidently assign roles knowing volunteers are available and rep
 ---
 
 ## Problem 2: No Support for Physical Promotion
-Most marketing tools prioritize digital promotion methods such as email and social media. However, for local community events, traditional outreach methods including flyer distribution, poster placement, and word-of-mouth continue to play a critical role. Current platforms lack features to plan or track physical promotion tasks, resulting in limited visibility, inefficiencies, and missed outreach opportunities. (Lucas, 2014)
+Current platforms lack features to plan or track physical promotion tasks, resulting in limited visibility, inefficiencies, and missed outreach opportunities. (Lucas, 2014)
 
 ### Requirement 4: The system should allow organizers to track physical marketing tasks such as flyer distribution, poster placement, or booth setup.
 
