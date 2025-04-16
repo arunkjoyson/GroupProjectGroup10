@@ -97,3 +97,95 @@ Metrics for Success
 •	Alerts are triggered for all unfilled shifts within 15 minutes.
 Outcome
 Organizers can confidently assign roles knowing volunteers are available and replacements are ready in case of cancellations.
+
+
+Problem 2: No Support for Physical Promotion
+Most marketing tools prioritize digital promotion methods such as email and social media. However, for local community events, traditional outreach methods Including flyer distribution, poster placement, and word-of-mouth continue to play a critical role. Current platforms lack features to plan or track physical promotion tasks, resulting in limited visibility, inefficiencies, and missed outreach opportunities. (Lucas, 2014)
+Requirement 4: The system should allow organizers to track physical marketing tasks such as flyer distribution, poster placement, or booth setup.
+Assumptions with Validation
+Assumption 1:
+Event organizers continue to use physical promotion methods such as flyers and posters.
+•	Validation:
+o	Conduct interviews with local event planners regarding their current promotional strategies(Lucas, 2014).
+o	Administer a short survey to determine what percentage of outreach efforts are conducted offline.
+•	Follow-Up Questions:
+o	How often do you use flyers or posters to promote events?
+o	Which areas are commonly targeted for physical outreach?
+Assumption 2:
+Organizers need to track which volunteers completed assigned promotional tasks and when.
+•	Validation:
+o	Interview both organizers and volunteers to understand current accountability practices. (VolunteerMatch, n.d.)
+o	Prototype a basic task confirmation form that includes options like checkbox, timestamp, or photo upload, and gather user feedback.
+•	Follow-Up Questions:
+o	Do you require visual or written confirmation of completed tasks?
+o	Would location-based tracking (e.g., GPS tags) be beneficial?
+Preliminary Tasks
+•	Add a “Physical Promotion Plan” section to the event creation form.
+o	 Include form fields for task type (e.g., flyer, poster), assigned personnel, and location details.
+•	Create a simple task confirmation form for volunteer use.	
+o	 Implement checkbox functionality and optional file upload to verify task completion.
+Metrics for Success
+•	Organizers are able to assign and complete tracking for at least three physical promotion tasks.
+•	Completion status is visible to both the organizer and volunteer.
+•	A minimum of 70% of assigned tasks are verified using a timestamp or photo.
+Outcome
+Organizers are able to plan and oversee offline outreach efforts more effectively, resulting in better coverage, higher community visibility, and improved event attendance.
+Requirement 5:The system should allow scheduling of physical promotion tasks in advance.
+Assumptions with Validation
+Assumption 1:
+Organizers require the ability to schedule physical promotion tasks ahead of time.
+•	Validation:
+Conduct user interviews to determine if organizers plan outreach based on specific dates or times. (Lucas, 2014)
+Test calendar-based scheduling during trials to assess improvements in planning efficiency.
+•	Follow-Up Questions:
+o	Do you prefer to schedule all outreach at once, or adjust tasks as needed?
+o	Would recurring task options (e.g., weekly poster placements) be useful?
+Assumption 2:
+Certain physical locations are considered high-priority for outreach and should be visually prioritized or mapped.
+•	Validation:
+o	Interview organizers to identify their most frequently used outreach areas.
+o	Introduce a map-based tagging feature and monitor adoption rates in early testing.
+•	Follow-Up Questions:
+o	Which locations (e.g., libraries, markets) do you prioritize for flyer/poster placement?
+o	Would a visual map interface help with outreach organization?
+Preliminary Tasks
+•	Add scheduling capability to the physical promotion task creation form.
+o	Include calendar date and time pickers for each task assignment.
+•	Integrate a location tagging map into the promotion planning module.	
+o	Implement Google Maps API to allow users to drop pins and label outreach sites.
+Metrics for Success
+•	Organizers successfully schedule a minimum of three physical promotion tasks.
+•	Map-based tagging is used for two or more locations per event.
+•	Post-task feedback from users confirms improved scheduling and area targeting.
+Outcome
+The planning and execution of physical outreach becomes more structured, allowing organizers to allocate volunteer resources effectively and ensure that high-impact areas are not missed.
+Requirement 6 : The system should help track the effectiveness of physical promotion.
+Assumptions with Validation
+Assumption 1:
+Organizers are interested in understanding how many attendees learned about the event through physical promotion.
+•	Validation:
+o	Add a referral question (e.g., “How did you hear about us?”) in the event registration form.
+o	Distribute flyers with unique QR codes or promo codes and analyze the resulting engagement data.
+•	Follow-Up Questions:
+o	Are you currently measuring how effective physical promotion is?
+o	Would you consider tracking offline engagement via codes or referral questions?
+Assumption 2:
+Data from physical promotion can be used to improve future outreach strategies.
+•	Validation:
+o	Review flyer-related QR code scans and promo code redemptions.
+o	Compare offline marketing results against online promotional efforts.
+•	Follow-Up Questions:
+o	Have you ever adjusted your outreach plan based on feedback or attendance data?
+o	Would real-world data on physical promotion impact influence your future approach?
+Preliminary Tasks
+•	Add a referral tracking question to the event registration form.
+o	Include a dropdown menu listing options like flyer, poster, and word-of-mouth.
+•	Generate trackable QR codes for each printed flyer batch.
+o	Create URLs with tracking parameters and generate QR codes linked to those URLs.
+Metrics for Success
+•	At least 50% of event registrants respond to the referral source question.
+•	QR codes or promo codes are scanned or used a minimum of 25 times per event.
+•	Organizers report clearer insights into the impact of their physical outreach strategies.
+Outcome
+Organizers gain actionable data on the effectiveness of their offline promotional campaigns, enabling them to make data-driven improvements in future event planning.
+
