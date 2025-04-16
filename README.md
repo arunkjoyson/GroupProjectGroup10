@@ -1,6 +1,3 @@
-Here's the exact wording you requested in the correct format for `README.md`:
-
-```markdown
 # Group Project - Group 10
 
 ### Members:
@@ -249,6 +246,5 @@ Organizers gain actionable data on the effectiveness of their offline promotiona
 - Google Sheets Templates. (n.d.). Event planning templates. https://docs.google.com/templates 
 - Lucas, M. J. (2014). The organizing practices of a community festival. Journal of Organizational Ethnography, 3(2), 275–290. https://doi.org/10.1108/JOE-01-2013-0001
 - VolunteerMatch. (n.d.). Blog & best practices for volunteer coordination. https://www.volunteermatch.org/
-``` 
 
-This is in the exact format, keeping the structure and content unchanged. Let me know if you need anything else!
+
